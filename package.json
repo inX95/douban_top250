@@ -1,0 +1,16 @@
+{
+  "name": "douban_top250",
+  "version": "1.0.0",
+  "description": "spider for douban top250",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spider",
+    "douban",
+    "top250"
+  ],
+  "author": "inX95",
+  "license": "ISC"
+}
